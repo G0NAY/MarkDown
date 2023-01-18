@@ -75,3 +75,16 @@ Lineas de texto con PRE
 
 ![Nombre de imagen](https://github.com/G0NAY/G0NAY/blob/main/Images/descarga.jpeg "Oso Afedo Custom")
 
+<https://github.com/G0NAY/G0NAY/blob/main/Images/descarga.jpeg>
+
+\\ Barra invertida  
+\` Comilla  
+\* Asterisco  
+\_ Guion bajo  
+\{} Corchetes  
+\[] Llaves  
+\() Parentesis  
+\+ Suma   
+\- Guion  
+\. Punto  
+\! Signo
