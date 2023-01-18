@@ -59,3 +59,17 @@ __Negritas__
 
 ***Cursiva y Negritas***  
 ___Cursiva y Negritas___
+
+
+[enlace en linea](https://github.com/G0NAY)
+
+
+Hola `Linea` mundo  
+
+<pre>
+<h1>Hola encabezado H1</h1>
+Lineas de texto con PRE
+</pre>  
+
+![Nombre de imagen](https://github.com/G0NAY/G0NAY/blob/main/Images/descarga.jpeg)
+
