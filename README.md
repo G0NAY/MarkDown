@@ -71,5 +71,7 @@ Hola `Linea` mundo
 Lineas de texto con PRE
 </pre>  
 
-![Nombre de imagen](https://github.com/G0NAY/G0NAY/blob/main/Images/descarga.jpeg)
+<!--![Nombre de imagen](https://github.com/G0NAY/G0NAY/blob/main/Images/descarga.jpeg)-->
+
+![Nombre de imagen](https://github.com/G0NAY/G0NAY/blob/main/Images/descarga.jpeg "Oso Afedo Custom")
 
