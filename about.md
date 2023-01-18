@@ -44,10 +44,10 @@ __Nombre: Alejandro González__
   - 🐟 Pescado
  
 #### *Agrega este link automático y enlace*
-[GPScontrol](https://madd.com.mx/)
-<https://markdown.es/sintaxis-markdown/>
-“Haz click aquí" La url que abrirán en este en la es (https://gpscontrol.com.mx/videovigilancia-movil/)    
-Instrucciones: Descarga una imagen o foto donde aparezcas y guarda la en una carpeta y sube esa carpeta a tu repositorio para poder mostrar esa imagen en tu READMe.md  
+[Haz click aquí](https://gpscontrol.com.mx/videovigilancia-movil/)  
+<https://madd.com.mx/>
+<https://markdown.es/sintaxis-markdown/>  
+
 *Pista
 
 ![Fotografia](https://github.com/G0NAY/G0NAY/blob/main/Images/IMG_20221122_112349_1.jpeg)
