@@ -46,6 +46,16 @@ puedes añadir tantas lienas y parrafos
     - Elemeto de lista3
        1. Elemeto de lista4
        1. Elemeto de lista4 
-
-
 ~~~
+
+---
+
+*Cursiva*  
+_Cursiva_    
+**Negritas**  
+__Negritas__  
+
+---
+
+***Cursiva y Negritas***  
+___Cursiva y Negritas___
